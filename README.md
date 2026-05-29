@@ -31,7 +31,7 @@ If a feature seems to need a dependency, that's a signal to write a smaller feat
 
 ## Planned features
 
-Nothing is built yet. This is the wishlist we're aiming at (contributions welcome):
+Nothing is built yet. This is the wishlist we're aiming at:
 
 - [ ] 🎨 **Themes** — true-black OLED dark mode, light variants, custom accent color
 - [ ] 🔤 **Typography** — font family, size, and line-height controls for readability
@@ -122,14 +122,21 @@ The builder is a small, readable Node script — no magic:
 
 That's the entire reason a custom builder earns its keep — and why we don't need a bundler.
 
-## Contributing
+## Project conventions
 
-The bar for contributions is simple: **keep it dependency-free and vanilla.**
+This project is **source-available for review only** (see [License](#license)) and
+is **not** currently open to outside contributions or reuse. These rules document
+the project's intent and the standard the maintainer holds the code to:
 
-- No npm packages (runtime or dev). If you reach for one, rethink the approach.
+- No npm packages (runtime or dev). If a feature seems to need one, rethink the feature.
 - Plain ES modules; annotate types with JSDoc.
-- Match the surrounding code's style and keep features behind toggles.
+- Keep features behind toggles and match the surrounding code's style.
 
 ## License
 
-TBD — likely MIT. A `LICENSE` file will be added before the first release.
+**All rights reserved — source-available, view-only.**
+
+This code is published publicly **for transparency and review only**. You may
+read it, but you may **not** use, run, build, copy, modify, fork, redistribute,
+or incorporate it (in whole or in part) for any purpose. See [`LICENSE`](LICENSE)
+for the full, binding terms.

@@ -1,0 +1,43 @@
+PROPRIETARY SOFTWARE LICENSE — ALL RIGHTS RESERVED (SOURCE-AVAILABLE, VIEW-ONLY)
+
+Copyright (c) 2026 ihorml (https://github.com/ihorml). All rights reserved.
+
+This software, including its source code, assets, and documentation (the
+"Software"), is made publicly visible SOLELY for transparency and public review.
+Public visibility does NOT grant any license or right to use the Software beyond
+reading it as expressly permitted below.
+
+1. PERMITTED (NARROW). You are permitted only to view and read the source code in
+   this repository for the sole purpose of personal evaluation and review.
+
+2. PROHIBITED. Except as stated in Section 1, you may NOT, in whole or in part,
+   for any reason, with or without modification, and whether or not for profit:
+     (a) copy, reproduce, download, mirror, fork, or store the Software (beyond
+         the transient copying inherent to viewing it);
+     (b) modify, adapt, translate, or create derivative works of the Software;
+     (c) use, run, execute, build, compile, install, or deploy the Software;
+     (d) distribute, publish, sublicense, sell, rent, lease, or otherwise make
+         the Software available to any third party;
+     (e) incorporate any part of the Software into any other software, product,
+         service, or work;
+     (f) use the Software or any part of it to train, fine-tune, benchmark, or
+         evaluate any machine-learning or artificial-intelligence model, system,
+         or dataset;
+     (g) remove, obscure, or alter any copyright, license, or attribution notice.
+
+3. NO OTHER RIGHTS. No rights or licenses are granted by implication, estoppel,
+   or otherwise. All rights not expressly granted in Section 1 are reserved by
+   the copyright holder. No patent and no trademark rights are granted.
+
+4. PERMISSIONS. Any use not expressly permitted in Section 1 requires the prior
+   written permission of the copyright holder. Requests may be directed to the
+   repository owner via https://github.com/ihorml.
+
+5. NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6. NO LIABILITY. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+   OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+   OR OTHER DEALINGS IN THE SOFTWARE.
